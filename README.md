@@ -1,3 +1,4 @@
 # Repo
 repo is my repository
-Author-Navagya Singh
+<br>
+<h1>Author-Navagya Singh</h1>
